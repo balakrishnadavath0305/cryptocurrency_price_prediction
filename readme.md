@@ -27,7 +27,3 @@ pip install -r requirements.txt
 - For visualization, always use actual DataFrame column names after any renaming or flattening.
 - If running on Python 3.11+, use `prophet` (not `fbprophet`).
 
-## Author & License
-
-- Notebook and code by a final-year BTech student.
-- MIT License.
